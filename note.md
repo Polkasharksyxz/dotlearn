@@ -3,7 +3,8 @@ cargo run
 touch src/balances.rs
 
 git add.
-git commit -m "add out/expand "
+git add -A
+git commit -m " "
 git push
 
 out.rs

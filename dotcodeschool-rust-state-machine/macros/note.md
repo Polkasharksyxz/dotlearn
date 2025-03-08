@@ -4,3 +4,9 @@ parse.rs - The parsing logic for the macro, extracting the information we need t
 parse.rs - 巨集的解析邏輯，提取生成代碼所需的資訊。
 expand.rs - The expansion / generation code, which will write new code for us with the data provided.
 expand.rs - 擴展 / 生成代碼，它將使用提供的數據為我們編寫新代碼。
+
+
+
+cargo expand > out.rs                                                                                          
+
+
